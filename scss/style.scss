@@ -1,0 +1,9 @@
+$myColor: gold;
+
+body {
+    background-color: $myColor;
+    background-size: cover;
+    nav {
+        background-color: rgba($color: #000000, $alpha: 0.5);
+    }
+}
